@@ -9,6 +9,12 @@ A Pokémon-card styled memory matching game with **2D and 3D modes**, emoji card
 
 ---
 
+<p align="center">
+  <img src="ui-game.png" alt="DuoMind Game UI" width="700" />
+</p>
+
+---
+
 ## ✨ Features
 
 | Feature              | Description                                              |
